@@ -19,5 +19,11 @@
         <item name="android:windowFullscreen">true</item>
         <item name="android:windowContentOverlay">@null</item>
     </style>
+	
+	<!-- Buttons -->
+    <style name="AccentButtonStyle" parent="Widget.AppCompat.Button">
+        <item name="android:background">@drawable/btn_accent</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
 
 </resources>
