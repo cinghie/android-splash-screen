@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_splashscreen">#FFFFFF</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#286090</color>
+    <color name="colorAccent">#D00703</color>
+    <color name="material_primary">#355c7d</color>
+    <color name="material_primary_dark">#254158</color>
+    <color name="material_primary_light">#d2e3f1</color>
+    <color name="material_accent">#fd7837</color>
+    <color name="material_accent_dark">#d1632e</color>
+</resources>
